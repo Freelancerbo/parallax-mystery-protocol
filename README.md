@@ -14,7 +14,7 @@ A real-time multiplayer social deduction game for 4–8 players. Players join wi
 - Responsive dark cyberpunk interface.
 
 ## Run locally
-
+Live link: https://claude.ai/artifact/Sd7Tq13btuDE3FdD9NRtmQ
 Requires Node.js 20 or newer.
 
 ```bash
